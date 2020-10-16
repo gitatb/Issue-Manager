@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+*.pem
+!mock-cert.pem
+.env
+coverage
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
